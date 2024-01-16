@@ -58,10 +58,10 @@ The **Pizza Sales Report** dashboards provide a user-friendly interface and offe
 - **Least-Selling Pizzas**: Identification of least-selling pizzas based on various metrics.
 
 ### Home Page Report Dashboard
-<img src="Dashboards/1_Pizza_Sales_Home_Report_Dashboard.png">
+<img src="C:\Users\AkhilKumarSingh\Documents\Pizza Sales report\Dashboard Image.png">
 
 ### Best/Worst Sellers Report Dashboard
-<img src="Dashboards/2_Best_worst_Sellers_Report_Dashboard.png">
+<img src="C:\Users\AkhilKumarSingh\Documents\Pizza Sales report\Dashboard Image.png">
 
 ### How to Use the Dashboard
 
