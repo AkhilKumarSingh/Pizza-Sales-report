@@ -1,4 +1,6 @@
-<img width="616" alt="Home" src="https://github.com/AkhilKumarSingh/Pizza-Sales-report/assets/98746937/af2bb279-5eda-4ca4-aacb-983ee8736b1e"># Pizza Sales Report with SQL and Power BI
+<img width="616" alt="Home" src="https://github.com/AkhilKumarSingh/Pizza-Sales-report/assets/98746937/af2bb279-5eda-4ca4-aacb-983ee8736b1e">
+
+# Pizza Sales Report with SQL and Power BI
 
 Welcome to the **Pizza Sales Report** project, where we leverage SQL for data analysis and Power BI for creating interactive visualizations. This project provides in-depth insights into pizza sales data, including daily and monthly trends, sales by pizza category and size, and identifying top-selling pizzas based on revenue, quantity, and total orders.
 
