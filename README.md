@@ -1,4 +1,4 @@
-<img width="616" alt="Home" src="https://github.com/AkhilKumarSingh/Pizza-Sales-report/assets/98746937/af2bb279-5eda-4ca4-aacb-983ee8736b1e">
+<img width="820" alt="Home" src="https://github.com/AkhilKumarSingh/Pizza-Sales-report/assets/98746937/af2bb279-5eda-4ca4-aacb-983ee8736b1e">
 
 # Pizza Sales Report with SQL and Power BI
 
